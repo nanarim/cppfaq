@@ -1,0 +1,2 @@
+# cppfaq
+exercises for cppfaq
